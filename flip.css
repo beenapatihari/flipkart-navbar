@@ -1,0 +1,57 @@
+
+*{
+    padding: 0px;
+    margin: 0;
+}
+nav{
+    display: flex;
+    background-color: blue;
+    justify-content:center;
+    align-items: center;
+    padding: 10px; 
+}
+ .plus-color{
+    color: yellow;
+    font-weight: 900;
+ }
+ .logo p{
+    color: white;
+    position: relative;
+    /*top:-20px;*/
+ }
+ .search{
+    background-color: white;
+    padding: 8px;
+    width: 420px;
+    height: 20px;
+    margin: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    color:blue;
+    border-radius: 3px;
+ }
+  .search input{
+    width: 400px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+  }
+
+.login{
+    padding: 8px 45px;
+    font-size: 20px;
+    font-weight: 600px;
+    border: none;
+    outline: none;
+    color: blue;
+    background-color: white;   
+}
+
+.flip{
+    margin: 0px 25px;
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+}
+
+  
